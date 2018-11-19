@@ -1,0 +1,11 @@
+# @Author: schwarze_falke
+# @Date:   2018-09-13T14:00:38-05:00
+# @Last modified by:   schwarze_falke
+# @Last modified time: 2018-09-13T14:01:58-05:00
+
+{
+  "extends": "airbnb-base",
+    "rules": {
+        "no-console": off
+      }
+}
