@@ -24,7 +24,7 @@ For example to install body-parser use the following command in your terminal wi
 ```
   npm install body-parser
  ```
-  
+
 And do the same with all the other dependencies.
 
 ### BUILDING (LOCALLY)
@@ -94,8 +94,8 @@ To see more documentation about the project, please visit [this link](https://do
 
 ## Authors
 
-+ [Carlos Vara](https://github.com/SchwarzeFalke) 
-+ [Brandon Diaz](https://github.com/BrandonDiazM) 
++ [Carlos Vara](https://github.com/SchwarzeFalke)
++ [Brandon Diaz](https://github.com/BrandonDiazM)
 + [Tyler Ruiz](https://github.com/tyler97)
 + [Julio Mariscal](https://github.com/JulioMariscal)
 
